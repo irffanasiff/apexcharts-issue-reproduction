@@ -136,7 +136,7 @@ export default function Home() {
       <ReactApexChart
         options={chartData.options}
         series={chartData.series}
-        type='area'
+        type="area"
         height={70}
         width={130}
       />
